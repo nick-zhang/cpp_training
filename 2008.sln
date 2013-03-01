@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "robust.2008", "training.robust\robust.2008.vcproj", "{9D3AF829-510D-4688-8347-0A173CFD2924}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "robust.II.2008", "training.robust.II\robust.II.2008.vcproj", "{FC5E2B48-D31C-466C-AE98-7871AB0A094C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D3AF829-510D-4688-8347-0A173CFD2924}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D3AF829-510D-4688-8347-0A173CFD2924}.Debug|Win32.Build.0 = Debug|Win32
+		{9D3AF829-510D-4688-8347-0A173CFD2924}.Release|Win32.ActiveCfg = Release|Win32
+		{9D3AF829-510D-4688-8347-0A173CFD2924}.Release|Win32.Build.0 = Release|Win32
+		{FC5E2B48-D31C-466C-AE98-7871AB0A094C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC5E2B48-D31C-466C-AE98-7871AB0A094C}.Debug|Win32.Build.0 = Debug|Win32
+		{FC5E2B48-D31C-466C-AE98-7871AB0A094C}.Release|Win32.ActiveCfg = Release|Win32
+		{FC5E2B48-D31C-466C-AE98-7871AB0A094C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
